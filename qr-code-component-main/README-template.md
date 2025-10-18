@@ -84,12 +84,13 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [Height and Width in CSS](https://www.w3schools.com/css/css_dimension.asp)
+- [Rounded Corners in CSS](https://www.w3schools.com/Css/css3_borders.asp)
+- [Aligning Elements in CSS](https://www.w3schools.com/csS/css_align.asp)
 
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@zpenguin19](https://www.frontendmentor.io/profile/zpenguin19)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
