@@ -83,9 +83,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Height and Width in CSS](https://www.w3schools.com/css/css_dimension.asp)
-- [Rounded Corners in CSS](https://www.w3schools.com/Css/css3_borders.asp)
-- [Aligning Elements in CSS](https://www.w3schools.com/csS/css_align.asp)
+- [Height and Width in CSS](https://www.w3schools.com/css/css_dimension.asp) - W3Schools
+- [Rounded Corners in CSS](https://www.w3schools.com/Css/css3_borders.asp) - W3Schools
+- [Aligning Elements in CSS](https://www.w3schools.com/csS/css_align.asp) - W3Schools
+- [Vertically Centering a div](https://stackoverflow.com/questions/356809/best-way-to-center-a-div-on-a-page-vertically-and-horizontally) - StackOverflow (user Vladimir Starkov)
+- [Creating Shadows in CSS](https://www.w3schools.com/Css/css3_shadows_box.asp)
 
 ## Author
 
