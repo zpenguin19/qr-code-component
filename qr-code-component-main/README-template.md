@@ -31,8 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 * Recap of how to use HTML and CSS together
 * 
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 ```css
 .qr {
     background-color: white;
@@ -63,7 +61,7 @@ Use this section to recap over some of your major learnings while working throug
 - [Rounded Corners in CSS](https://www.w3schools.com/Css/css3_borders.asp) - W3Schools
 - [Aligning Elements in CSS](https://www.w3schools.com/csS/css_align.asp) - W3Schools
 - [Vertically Centering a div](https://stackoverflow.com/questions/356809/best-way-to-center-a-div-on-a-page-vertically-and-horizontally) - StackOverflow (user Vladimir Starkov)
-- [Creating Shadows in CSS](https://www.w3schools.com/Css/css3_shadows_box.asp)
+- [Creating Shadows in CSS](https://www.w3schools.com/Css/css3_shadows_box.asp) - W3Schools
 
 ## Author
 - Frontend Mentor - [@zpenguin19](https://www.frontendmentor.io/profile/zpenguin19)
